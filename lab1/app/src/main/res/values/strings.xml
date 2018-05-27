@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string-array name="choises_array">
+        <item>Plus</item>
+        <item>Minus</item>
+        <item>Multiply</item>
+        <item>Divide</item>
+    </string-array>
+</resources>
